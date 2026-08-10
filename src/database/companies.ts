@@ -1,0 +1,17 @@
+export const companies = [
+  { id:"CMP-001", name:"Tech Vision", industry:"Healthcare", employees:277, country:"UAE" },
+  { id:"CMP-002", name:"CloudSync", industry:"Finance", employees:174, country:"Saudi Arabia" },
+  { id:"CMP-003", name:"NovaSoft", industry:"Finance", employees:66, country:"Saudi Arabia" },
+  { id:"CMP-004", name:"Bright AI", industry:"Marketing", employees:235, country:"Egypt" },
+  { id:"CMP-005", name:"Future Labs", industry:"Healthcare", employees:201, country:"Egypt" },
+  { id:"CMP-006", name:"Pixel Studio", industry:"Software", employees:83, country:"Egypt" },
+  { id:"CMP-007", name:"Blue Ocean", industry:"Software", employees:255, country:"Egypt" },
+  { id:"CMP-008", name:"FinCore", industry:"Finance", employees:281, country:"Saudi Arabia" },
+  { id:"CMP-009", name:"Health Plus", industry:"Healthcare", employees:92, country:"Egypt" },
+  { id:"CMP-010", name:"EduSmart", industry:"Software", employees:160, country:"UAE" },
+  { id:"CMP-011", name:"Alpha Tech", industry:"Education", employees:275, country:"Egypt" },
+  { id:"CMP-012", name:"SkyNet", industry:"Education", employees:30, country:"Saudi Arabia" },
+  { id:"CMP-013", name:"CodeCraft", industry:"Education", employees:147, country:"UAE" },
+  { id:"CMP-014", name:"VisionX", industry:"Education", employees:152, country:"UAE" },
+  { id:"CMP-015", name:"NextGen", industry:"Education", employees:176, country:"Saudi Arabia" },
+];
