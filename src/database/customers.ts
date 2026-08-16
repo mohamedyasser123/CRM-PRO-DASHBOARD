@@ -1,4 +1,6 @@
-export const customers = [
+import type { Customer } from "../modules/customers/types/customer";
+
+export const customers :Customer[]= [
 {
     id: "CUS-0001",
     fullName: "Sara Saleh",
