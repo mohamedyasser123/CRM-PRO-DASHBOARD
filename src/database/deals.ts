@@ -1,4 +1,6 @@
-export const deals=[
+import type { Deal } from "../modules/deals/types/deal";
+
+export const deals : Deal[]=[
 {id:"DEAL-0001",customerId:"CUS-0016",title:"Deal 1",value:2507,stage:"Lost"},
 {id:"DEAL-0002",customerId:"CUS-0046",title:"Deal 2",value:1086,stage:"Won"},
 {id:"DEAL-0003",customerId:"CUS-0002",title:"Deal 3",value:11174,stage:"Proposal"},
